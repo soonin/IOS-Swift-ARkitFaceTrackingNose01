@@ -5,7 +5,7 @@ In this tutorial, you’ll learn how to use AR Face Tracking to track your face 
 
 ## About
 
-Sample app to Real-time detect face and details like eye , eyebrow , nose , lips and etc. 
+Sample app to IOS 12, Swift 4 : Make Slide in Menu in few minutes (SooninSlideInHandler, Swift Open Source) 
 
 ## Requirements
 
@@ -19,7 +19,7 @@ Sample app to Real-time detect face and details like eye , eyebrow , nose , lips
 You won't need to Download any extra libaray just ```import ARKit``` inside the project 
 
 ##### For additionnal info, please watch the video : 
-[![Real0time Face Tracking](https://img.youtube.com/vi/1lU0Xtxxvuk/hqdefault.jpg)](https://youtu.be/1lU0Xtxxvuk)
+[![Real0time Face Tracking](https://img.youtube.com/vi/2CQDV2SOyOo/hqdefault.jpg)](https://youtu.be/2CQDV2SOyOo)
 
 ## License
 

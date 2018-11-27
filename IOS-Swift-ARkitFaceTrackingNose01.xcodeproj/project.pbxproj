@@ -12,6 +12,7 @@
 		FAFFA96721AD39E400221D29 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAFFA96521AD39E400221D29 /* Main.storyboard */; };
 		FAFFA96921AD39E600221D29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAFFA96821AD39E600221D29 /* Assets.xcassets */; };
 		FAFFA96C21AD39E600221D29 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAFFA96A21AD39E600221D29 /* LaunchScreen.storyboard */; };
+		FAFFA97421AD3B0800221D29 /* FaceNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFFA97321AD3B0800221D29 /* FaceNode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FAFFA96821AD39E600221D29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAFFA96B21AD39E600221D29 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FAFFA96D21AD39E600221D29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAFFA97321AD3B0800221D29 /* FaceNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceNode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				FAFFA96121AD39E400221D29 /* AppDelegate.swift */,
 				FAFFA96321AD39E400221D29 /* ViewController.swift */,
 				FAFFA96521AD39E400221D29 /* Main.storyboard */,
+				FAFFA97321AD3B0800221D29 /* FaceNode.swift */,
 				FAFFA96821AD39E600221D29 /* Assets.xcassets */,
 				FAFFA96A21AD39E600221D29 /* LaunchScreen.storyboard */,
 				FAFFA96D21AD39E600221D29 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				FAFFA96421AD39E400221D29 /* ViewController.swift in Sources */,
 				FAFFA96221AD39E400221D29 /* AppDelegate.swift in Sources */,
+				FAFFA97421AD3B0800221D29 /* FaceNode.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,7 +287,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 29BJ3MZQW5;
 				INFOPLIST_FILE = "IOS-Swift-ARkitFaceTrackingNose01/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -300,7 +306,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 29BJ3MZQW5;
 				INFOPLIST_FILE = "IOS-Swift-ARkitFaceTrackingNose01/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

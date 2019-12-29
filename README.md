@@ -8,9 +8,9 @@ In this tutorial, you’ll learn how to use AR Face Tracking to track your face 
 Sample app to IOS 12, Swift 4 : Make Slide in Menu in few minutes (SooninSlideInHandler, Swift Open Source) 
 
 ## Advertise - ( support us :) with download and rate below iOS App.
-``` Level : Intermediate ```
-Please find below a link to an iOs app for learning numbers 0 - 100 in 5 languages ()   
-[![Learn Numbers](https://img)](https://apps.apple.com/us/app/learn-numbers-0-100/id1491301086#?platform=iphone)
+``` Learn numbers 0 to 100 in English, French, German, Spanish and Italian. ```
+
+[![Learn Numbers 0-100](https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/3e/5c/fb/3e5cfbd8-5ba4-75ab-422b-63ea6a96249a/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/230x0w.png)](https://apps.apple.com/us/app/learn-numbers-0-100/id1491301086#?platform=iphone)
 
 ## Requirements
 

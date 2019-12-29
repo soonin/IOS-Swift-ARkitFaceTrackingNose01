@@ -10,7 +10,7 @@ Sample app to IOS 12, Swift 4 : Make Slide in Menu in few minutes (SooninSlideIn
 ## Advertise - ( support us :) with download and rate below iOS App.
 ``` Level : Intermediate ```
 Please find below a link to an iOs app for learning numbers 0 - 100 in 5 languages ()   
-[![Learn Numbers](https://img)](https://youtu)
+[![Learn Numbers](https://img)](https://apps.apple.com/us/app/learn-numbers-0-100/id1491301086#?platform=iphone)
 
 ## Requirements
 
